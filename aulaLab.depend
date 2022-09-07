@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1662477585 source:c:\users\leonardo\desktop\aula_lab\aulalab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1662508797 source:c:\users\leonardo\desktop\aula_lab\aula_laboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
